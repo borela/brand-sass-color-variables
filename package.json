@@ -1,0 +1,34 @@
+{
+  "name": "brand-sass-color-variables",
+  "version": "1.0.0",
+  "description": "Lowercase, no prefix/suffix brand color variables.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/borela/brand-sass-color-variables.git"
+  },
+  "keywords": [
+    "color",
+    "brand",
+    "no prefix",
+    "no suffix",
+    "palette",
+    "sass",
+    "scss",
+    "variables"
+  ],
+  "author": [{
+    "name": "Alexandre Borela",
+    "email": "alexandre@borela.tech",
+    "url": "http://www.borela.tech"
+  },{
+    "name": "Piérre Reimertz",
+    "email": "pierre.reimertz@gmail.com",
+    "url": "http://reimertz.co"
+  }],
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/borela/brand-sass-color-variables/issues"
+  },
+  "homepage": "https://github.com/borela/brand-sass-color-variables#readme",
+  "main": "_palette.scss"
+}
