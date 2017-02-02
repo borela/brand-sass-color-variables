@@ -2,10 +2,16 @@
   "name": "brand-sass-color-variables",
   "version": "1.0.0",
   "description": "Lowercase, no prefix/suffix brand color variables.",
+  "license": "Apache-2.0",
+  "main": "_palette.scss",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/borela/brand-sass-color-variables.git"
   },
+  "bugs": {
+    "url": "https://github.com/borela/brand-sass-color-variables/issues"
+  },
+  "homepage": "https://github.com/borela/brand-sass-color-variables#readme",
   "keywords": [
     "color",
     "brand",
@@ -16,19 +22,16 @@
     "scss",
     "variables"
   ],
-  "author": [{
-    "name": "Alexandre Borela",
-    "email": "alexandre@borela.tech",
-    "url": "http://www.borela.tech"
-  },{
-    "name": "Piérre Reimertz",
-    "email": "pierre.reimertz@gmail.com",
-    "url": "http://reimertz.co"
-  }],
-  "license": "Apache-2.0",
-  "bugs": {
-    "url": "https://github.com/borela/brand-sass-color-variables/issues"
-  },
-  "homepage": "https://github.com/borela/brand-sass-color-variables#readme",
-  "main": "_palette.scss"
+  "author": [
+    {
+      "name": "Alexandre Borela",
+      "email": "alexandre@borela.tech",
+      "url": "http://www.borela.tech"
+    },
+    {
+      "name": "Piérre Reimertz",
+      "email": "pierre.reimertz@gmail.com",
+      "url": "http://reimertz.co"
+    }
+  ],
 }
