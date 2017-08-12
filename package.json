@@ -1,6 +1,6 @@
 {
   "name": "brand-sass-color-variables",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Lowercase, no prefix/suffix brand color variables.",
   "license": "Apache-2.0",
   "main": "_palette.scss",
@@ -33,5 +33,5 @@
       "email": "pierre.reimertz@gmail.com",
       "url": "http://reimertz.co"
     }
-  ],
+  ]
 }

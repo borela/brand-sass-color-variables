@@ -1,14 +1,16 @@
-# Brand color variables.
-
 Lowercase, no prefix/suffix brand color variables.
 
 ## Installation
 
-    npm install --save brand-sass-color-variables
+```sh
+npm install --save brand-sass-color-variables
+```
 
 ## Usage
 
-    @import "~brand-sass-color-variables"
+```sass
+@import "~brand-sass-color-variables"
+```
 
 ## Author
 
